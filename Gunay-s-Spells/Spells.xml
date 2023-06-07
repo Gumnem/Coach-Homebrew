@@ -1,1 +1,48 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Unearthed Arcana: Fighter, Rogue, and Wizard</name>
+		<update version="0.0.1">
+			<file name="Spells.xml" url="https://github.com/Gumnem/Gunay-s-Homebrew/edit/main/Gunay-s-Spells/Spells.xml" />
+		</update>
+	</info>
+  
+  <element name="Id Insinuation Revised" type="Spell" source="Gumnem's Homebrew" id="ID_WOTC_UA20191125_SPELL_ID_INSINUATION">
+		<supports>Bard, Sorcerer, Warlock, Wizard</supports>
+		<description>
+			<p>You unleash a torrent of conflicting desires in the mind of one creature you can see within range, impairing its ability to make decisions. The target must succeed on a Wisdom saving throw or be incapacitated. When the spell is cast, it takes 1d12 psychic damage, and it can then make another Wisdom saving throw. On a success, the spell ends on the target. On fail spell continues and in every one of its turns tries the wisdom saving again. On fail it takes 1d6 damage, on success spell ends</p>
+		</description>
+		<setters>
+			<set name="keywords">psionic</set>
+			<set name="level">1</set>
+			<set name="school">Enchantment</set>
+			<set name="time">1 action</set>
+			<set name="range">60 feet</set>
+			<set name="duration">Concentration, up to 1 minute</set>
+			<set name="hasVerbalComponent">true</set>
+		    	<set name="hasSomaticComponent">true</set>
+			    <set name="hasMaterialComponent">false</set>
+			    <set name="materialComponent"></set>
+			    <set name="isConcentration">true</set>
+			    <set name="isRitual">false</set>
+		    </setters>
+    	</element>
+	<element name="Silvery Barbs Revised" type="Spell" source="Gumnem's Homebrew" id="ID_WOTC_SCOC_SPELL_SILVERY_BARBS">
+		<supports>Bard, Sorcerer, Wizard</supports>
+		<description>
+			<p>You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll. Target creature can make a wisdom saving throw to resist the spell</p>
+			<p class="indent">You can then choose a different creature you can see within range (you can choose yourself). On a failed wisdom saving throw the chosen creature has advantage on the next attack roll it makes within 1 minute against the creature. A creature can be empowered by only one use of this spell at a time.</p>
+		</description>
+		<setters>
+			    <set name="keywords">advantage, attack roll</set>
+			    <set name="level">2</set>
+			    <set name="school">Enchantment</set>
+			    <set name="time">1 reaction, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw</set>
+			    <set name="range">30 feet</set>
+		    	<set name="hasVerbalComponent">true</set>
+			    <set name="hasSomaticComponent">false</set>
+			    <set name="hasMaterialComponent">false</set>
+			    <set name="materialComponent"></set>
+			    <set name="duration">Instantaneous</set>
+		</setters>
+	</element>
