@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+    <info>
+        <name>Gumnem's Homebrew Spells</name>
+        <description>Includes all revised spells made by Gumnem</description>
+        <author url="https://github.com/Santazma/HailJoe-DnD%22%3EHailJoe</author>
+        <update version="0.0.3">
+            <file name="hailjoe-items.index" url="https://raw.githubusercontent.com/Santazma/HailJoe-DnD/main/hailjoe-items.index" />
+        </update>
+    </info>
+    <files>
+        <file name="weapons.index" url="https://raw.githubusercontent.com/Santazma/HailJoe-DnD/main/hailjoe-items/weapons.index" />
+        <file name="wondrous.index" url="https://raw.githubusercontent.com/Santazma/HailJoe-DnD/main/hailjoe-items/wondrous.index" />
+    </files>
+</index>
