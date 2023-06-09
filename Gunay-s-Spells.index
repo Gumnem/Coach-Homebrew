@@ -9,6 +9,6 @@
         </update>
     </info>
     <files>
-        <file name="Spells.xml" url="https://raw.githubusercontent.com/Santazma/HailJoe-DnD/main/hailjoe-items/weapons.index" />
+        <file name="Spells.xml" url="https://raw.githubusercontent.com/Gumnem/Coach-Homebrew/main/Gunay-s-Spells/Spells.xml?token=GHSAT0AAAAAACDTSMS3QYYNQWWKJ4DAJ7B2ZEC5OEA" />
     </files>
 </index>
