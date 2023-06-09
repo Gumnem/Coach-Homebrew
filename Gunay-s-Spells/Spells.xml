@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<name>Unearthed Arcana: Fighter, Rogue, and Wizard</name>
+		<name>Gumnem's Homebrew Spells</name>
 		<update version="0.0.1">
 			<file name="Spells.xml" url="https://github.com/Gumnem/Gunay-s-Homebrew/edit/main/Gunay-s-Spells/Spells.xml" />
 		</update>
