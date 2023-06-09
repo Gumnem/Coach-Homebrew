@@ -3,7 +3,7 @@
 	<info>
 		<name>Gumnem's Homebrew Spells</name>
 		<update version="0.0.2">
-			<file name="Spells.xml" url="https://raw.githubusercontent.com/Gumnem/Coach-Homebrew/main/Gunay-s-Spells/Spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/Gumnem/Coach-Homebrew/main/gunay-s-spells/spells.xml" />
 		</update>
 	</info>
   
