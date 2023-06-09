@@ -5,10 +5,10 @@
         <description>Includes all revised spells made by Gumnem</description>
         <author url="https://github.com/Gumnem/Coach-Homebrew</author>
         <update version="0.0.2">
-            <file name="Gunay-s-Spells.index" url="https://raw.githubusercontent.com/Gumnem/Coach-Homebrew/main/Gunay-s-Spells.index?token=GHSAT0AAAAAACDTSMS22RN3KUK33NUV22JKZEC5MNQ" />
+            <file name="Gunay-s-Spells.index" url="https://raw.githubusercontent.com/Gumnem/Coach-Homebrew/main/Gunay-s-Spells.index" />
         </update>
     </info>
     <files>
-        <file name="Spells.xml" url="https://raw.githubusercontent.com/Gumnem/Coach-Homebrew/main/Gunay-s-Spells/Spells.xml?token=GHSAT0AAAAAACDTSMS3QYYNQWWKJ4DAJ7B2ZEC5OEA" />
+        <file name="Spells.xml" url="https://raw.githubusercontent.com/Gumnem/Coach-Homebrew/main/Gunay-s-Spells/Spells.xml" />
     </files>
 </index>
