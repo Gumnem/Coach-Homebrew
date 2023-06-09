@@ -2,12 +2,12 @@
 <elements>
 	<info>
 		<name>Gumnem's Homebrew Spells</name>
-		<update version="0.0.1">
-			<file name="Spells.xml" url="https://github.com/Gumnem/Gunay-s-Homebrew/edit/main/Gunay-s-Spells/Spells.xml" />
+		<update version="0.0.2">
+			<file name="Spells.xml" url="https://raw.githubusercontent.com/Gumnem/Coach-Homebrew/main/Gunay-s-Spells/Spells.xml?token=GHSAT0AAAAAACDTSMS2TYH6KOWG7BICWG5EZEC5EHA" />
 		</update>
 	</info>
   
-  <element name="Id Insinuation Revised" type="Spell" source="Gumnem's Homebrew" id="ID_WOTC_UA20191125_SPELL_ID_INSINUATION">
+  <element name="Id Insinuation Revised" type="Spell" source="Gumnem's Homebrew" id="ID_GUMNEM_SPELL_ID_INSINUATION_REVISED">
 		<supports>Bard, Sorcerer, Warlock, Wizard</supports>
 		<description>
 			<p>You unleash a torrent of conflicting desires in the mind of one creature you can see within range, impairing its ability to make decisions. The target must succeed on a Wisdom saving throw or be incapacitated. When the spell is cast, target makes a wisdom saving throw, on fail it takes 1d10 psychic damage and becomes incapacitated, in every one of its turns it can try the wisdom saving again. On fail it takes 1d6 damage, on success spell ends and if someone hits the target spell also ends</p>
@@ -27,7 +27,7 @@
 			    <set name="isRitual">false</set>
 		    </setters>
     	</element>
-	<element name="Silvery Barbs Revised" type="Spell" source="Gumnem's Homebrew" id="ID_WOTC_SCOC_SPELL_SILVERY_BARBS">
+	<element name="Silvery Barbs Revised" type="Spell" source="Gumnem's Homebrew" id="ID_GUMNEM_SPELL_SILVERY_BARBS_REVISED">
 		<supports>Bard, Sorcerer, Wizard</supports>
 		<description>
 			<p>You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll. Target creature can make a wisdom saving throw to resist the spell</p>
