@@ -3,9 +3,9 @@
     <info>
         <name>Gumnem's Homebrew Spells</name>
         <description>Includes all revised spells made by Gumnem</description>
-        <author url="https://github.com/Santazma/HailJoe-DnD%22%3EHailJoe</author>
-        <update version="0.0.3">
-            <file name="hailjoe-items.index" url="https://raw.githubusercontent.com/Santazma/HailJoe-DnD/main/hailjoe-items.index" />
+        <author url="https://github.com/Gumnem/Coach-Homebrew</author>
+        <update version="0.0.2">
+            <file name="Gunay-s-Spells.index" url="https://raw.githubusercontent.com/Santazma/HailJoe-DnD/main/hailjoe-items.index" />
         </update>
     </info>
     <files>
