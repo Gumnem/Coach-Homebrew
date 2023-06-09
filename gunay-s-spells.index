@@ -3,7 +3,7 @@
     <info>
         <name>Gumnem's Homebrew Spells</name>
         <description>Includes all revised spells made by Gumnem</description>
-        <author url="https://github.com/Gumnem/>Coach-Homebrew</author>
+        <author url="https://github.com/Gumnem/Coach-Homebrew">Coach-Homebrew</author>
         <update version="0.0.2">
             <file name="gunay-s-spells.index" url="https://raw.githubusercontent.com/Gumnem/Coach-Homebrew/main/gunay-s-spells.index" />
         </update>
